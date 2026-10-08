@@ -17,7 +17,7 @@ Kafka, Spring, gRPC gibi büyük kavramları tek mesaja sığdırma. Önce aşa�
 
 1. **Tek cümle:** Bu ne?
 2. **Hangi problemi çözüyor:** Bu olmasaydı ne olurdu? Kavramı ihtiyaçtan anlat, en önemli kısım bu.
-3. **Benzetme:** Selim'in bildiği bir şeyden (backtest projesi, Git, banka işlemleri). Benzetmenin nerede bozulduğunu da söyle.
+3. **Benzetme:** Selim'in bildiği bir şeyden (kişisel projesi, Git, günlük hayattan akışlar). Benzetmenin nerede bozulduğunu da söyle.
 4. **Mini diyagram ya da örnek akış:** ASCII kutu-ok çizimi ya da adım adım somut bir örnek.
 5. **Java/Spring dünyasında nasıl görünür:** Hangi kütüphane, annotation ya da config ile kullanılır. Gerekirse en fazla 10 satırlık bir kod parçası.
 6. **Tuzak:** En sık karıştırılan şey ya da tipik hata, 1-2 madde.
@@ -25,4 +25,4 @@ Kafka, Spring, gRPC gibi büyük kavramları tek mesaja sığdırma. Önce aşa�
 
 ## Sonra
 
-Selim'in cevabını değerlendir, net geri bildirim ver. Ardından `KAVRAMLAR.md`'yi güncelle: kavramı ekle ya da seviyesini düzelt. Seviyeyi Selim'in cevabına göre ver, "anladım" demesine göre değil. Dosyaya sadece genel tanım yazılır, bankaya özgü bilgi yazılmaz.
+Selim'in cevabını değerlendir, net geri bildirim ver. Ardından `KAVRAMLAR.md`'yi güncelle: kavramı ekle ya da seviyesini düzelt. Seviyeyi Selim'in cevabına göre ver, "anladım" demesine göre değil. Dosyaya sadece genel tanım yazılır.

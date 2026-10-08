@@ -2,8 +2,6 @@
 
 Selim'in kavramlardaki seviyesi. Anlatmadan önce bak: bildiğini baştan anlatma, eksik olanı anlat. Seviyeyi Selim'in kendi anlatımına göre değiştir, "anladım" demesine göre değil.
 
-> Sadece genel kavramlar. Bankaya özgü bilgi yazılmaz.
-
 **Seviyeler:**
 
 - **0 - duydu:** Adını biliyor.
@@ -13,7 +11,7 @@ Selim'in kavramlardaki seviyesi. Anlatmadan önce bak: bildiğini baştan anlatm
 
 Asıl boşluk 1 ile 2 arasında: tanımları biliyor, akışı göremiyor.
 
-## İş kavramları
+## Kavramlar
 
 | Kavram | Seviye | Not |
 |---|---|---|
@@ -25,7 +23,6 @@ Asıl boşluk 1 ile 2 arasında: tanımları biliyor, akışı göremiyor.
 
 - **Java:** Döngüler, temel class, değişmez class, exception fırlatma, array ve `ArrayList`.
 - **Git:** Commit geçmişi (snapshot, parent, hash), branch'in sadece bir etiket olması, merge'ün yönü, status/add/commit/push döngüsü.
-- **Backtest projesi:** CSV'den mum okuma, kapanış fiyatı istatistikleri, SMA'yı kayan toplamla hesaplama (maliyet `period × n` yerine `period + n`).
-- **Trading:** Mum grafik, hareketli ortalama, RSI.
+- **Kişisel proje:** CSV'den veri okuma, kayan toplamla ortalama hesaplama (maliyet `period × n` yerine `period + n`).
 
-Zayıf olduğu bilinenler: HashMap ve diğer data structure'lar, SQL, Spring, büyük kod tabanı okuma.
+Geliştirdiği alanlar: HashMap ve diğer data structure'lar, SQL, Spring, büyük kod tabanı okuma.

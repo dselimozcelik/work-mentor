@@ -1,8 +1,6 @@
-# İlerleme (iş)
+# İlerleme
 
 **Son güncelleme:** 2026-10-08 (kurulum, henüz oturum yok)
-
-> Bu dosyaya bankaya özgü bilgi yazılmaz. Dokümanların adı genel tutulur, ayrıntılar `docs/` altında kalır.
 
 ## Nerede kaldık
 
@@ -18,11 +16,11 @@ Henüz başlamadık. İlk iş: içinde Kafka, gRPC ve ShedLock geçen bir teknik
 
 ## Zorlandığı yerler
 
-Ev tarafındaki öğrenmeden gelen gözlemler. İş tarafında doğrula, güncelle:
+Başlangıç gözlemleri, oturumlarda doğrula ve güncelle:
 
 - Tanımları biliyor ama parçaların bir sistemde nasıl bağlandığını, yani akışı görmekte zorlanıyor.
 - Aynı anda çok kavram gelince bunalıyor. Tek parça, somut örnek ve görsel işe yarıyor.
-- Bir konu yazılı anlatımla ve sorularla oturmadığında görselli ders oturttu.
+- Bir konu yazılı anlatımla ve sorularla oturmadığında görselli ders oturtuyor.
 
 ## Tekrar sorulacak konular
 

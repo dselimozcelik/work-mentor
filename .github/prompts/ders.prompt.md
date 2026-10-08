@@ -12,7 +12,7 @@ Selim bir konuda ders istedi ya da bir kavram sohbette oturmadı. Görevin: o ko
 - Konum: `dersler/NNNN-konu-adi.html`. NNNN, `dersler/` içindeki son numaranın bir fazlası, 4 hane (ilk ders `0001`). Dosya tek başına çalışsın, CSS satır içi olsun, dış bağımlılık olmasın.
 - Bitince aç: terminalde `start dersler/NNNN-konu-adi.html` (Windows). Açamazsan dosyanın yolunu Selim'e söyle.
 - Ders yaklaşık 5 dakikada okunmalı ve **tek bir kazanım** öğretmeli. Konu büyükse böl: ilk parçayı yaz, devamını sor.
-- **Bankaya özgü bilgi yok.** Ders genel kavramı anlatır. Örnek gerekirse uydurma ama gerçekçi bir senaryo kullan (sipariş servisi, ödeme bildirimi gibi) ve "örnek" diye belirt.
+- **Genel kavram.** Ders, dokümana özel ayrıntı içermez. Örnek gerekirse uydurma ama gerçekçi bir senaryo kullan (sipariş servisi, ödeme bildirimi gibi) ve "örnek" diye belirt.
 
 ## Yapı
 

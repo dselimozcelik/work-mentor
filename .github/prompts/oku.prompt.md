@@ -34,11 +34,11 @@ Sonunda sor: "Bu resim sana anlamlı geliyor mu? 1. parçadan başlayalım mı?"
 4. **Akış izi (en önemli adım):** Somut bir örnekle (örnek bir istek ya da mesaj) adım adım "önce şu olur, sonra şu" diye izle. Selim tanımları biliyor ama akışı görmekte zorlanıyor.
 5. **Tek soru:** Parçayı anladığını gösterecek tek bir soru sor. Tanım sorusu sorma. İyi türler: "Bu adım başarısız olursa ne olur?", "Burada neden X kullanılmış da Y değil?", "Bu mesaj hangi sırayla nereye gidiyor, kendi cümlenle anlat." Cevabı bekle, net geri bildirim ver, sonra sıradaki parçaya geç.
 
-Doküman bir şeyi söyleyip sebebini söylemiyorsa bunu belirt. Doküman eksik ya da çelişkiliyse işaretle ve "mentoruna sorulacaklar" listesine ekle. Selim bu soruları işteki mentoruna götürmek istiyor.
+Doküman bir şeyi söyleyip sebebini söylemiyorsa bunu belirt. Doküman eksik ya da çelişkiliyse işaretle ve "sorulacaklar" listesine ekle. Selim bu soruları ekibine götürebilir.
 
 ## 3. Notlar
 
-Her parça bitince `docs/<doküman-adi>-notlar.md` dosyasını güncelle. İçinde şunlar olsun: büyük diyagram, okuma planı (biten parçalar ✓ ile işaretli), Selim'in kendi cümleleriyle her parçanın 2-3 satırlık özeti ve mentora sorulacaklar. Bu dosya git'e girmez, bankaya özgü bilgi burada durabilir.
+Her parça bitince `docs/<doküman-adi>-notlar.md` dosyasını güncelle. İçinde şunlar olsun: büyük diyagram, okuma planı (biten parçalar ✓ ile işaretli), Selim'in kendi cümleleriyle her parçanın 2-3 satırlık özeti ve sorulacaklar. Dokümana özel ayrıntılar bu dosyada durur.
 
 ## 4. Bitiş
 

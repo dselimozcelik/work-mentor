@@ -1,0 +1,5 @@
+# Şirket dokümanları ve dokümana özel notlar asla repoya girmez
+docs/
+
+.vscode/
+.idea/
